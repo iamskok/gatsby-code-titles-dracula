@@ -1,0 +1,15 @@
+.gatsby-code-title {
+	position: relative;
+	z-index: $z-index;
+	margin-bottom: 0;
+	font-family: $font;
+	font-style: italic;
+	font-size: $font-size;
+	font-weight: $font-weight;
+	text-align: $text-align;
+	line-height: $line-height;
+	letter-spacing: $letter-spacing;
+	color: rgba($foreground, 0.75);
+	background-color: darken($background, 5%);
+	border-bottom: 1px solid $comment;
+}

@@ -1,0 +1,43 @@
+{
+  "name": "gatsby-code-titles-dracula",
+  "version": "0.1.2",
+  "description": "Dracula code titles theme for Gatsby",
+  "main": "styles.css",
+  "scripts": {
+    "sass": "node_modules/node-sass/bin/node-sass lib/styles.scss styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamskok/gatsby-code-titles-dracula.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-remark-prismjs",
+    "prism",
+    "prism-line-numbers",
+    "prism-line-highlight",
+    "theme",
+    "dark-theme",
+    "dracula",
+    "dracula-theme",
+    "gatsby-syntax-hightlights-dracula",
+    "gatsby-line-hightlights-dracula",
+    "gatsby-line-numbers-dracula",
+    "gatsby-code-buttons-dracula",
+    "styles",
+    "sass",
+    "scss",
+    "css"
+  ],
+  "author": "Vladimir Skok <skok@vova.io> (https://github.com/iamskok)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamskok/gatsby-code-titles-dracula/issues"
+  },
+  "homepage": "https://github.com/iamskok/gatsby-code-titles-dracula#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
